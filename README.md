@@ -12,7 +12,7 @@ Recap of Clean Code by Robert C Martin
 7. Class Names
     - Classes and objects should have noun or noun phrase names like `Customer`, `WikiPage`, `Account`, and `AddressParser`. Avoid words like `Manager`, `Processor`, `Data`, or `Info` in the name of a class. A class name should not be a verb.
 8. Method Names
-    Methods should have verb or verb phrase names like `postPayment`, `deletePage`, or `save`. Accessors, mutators, and predicates should be named for their value and prefixed with `get`, `set`, `it`
+    - Methods should have verb or verb phrase names like `postPayment`, `deletePage`, or `save`. Accessors, mutators, and predicates should be named for their value and prefixed with `get`, `set`, `it`
 9. Don’t Be Cute
 10. Pick One Word per Concept
 11. Don’t Pun
